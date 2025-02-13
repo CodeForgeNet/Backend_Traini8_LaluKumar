@@ -1,7 +1,4 @@
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 837a989 (initial commit)
 # Compiled class file
 *.class
 
@@ -26,8 +23,6 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
-<<<<<<< HEAD
-=======
 =======
 HELP.md
 target/
@@ -130,5 +125,3 @@ nbdist/
 # Windows
 Thumbs.db
 ehthumbs.db
-
->>>>>>> 837a989 (initial commit)
