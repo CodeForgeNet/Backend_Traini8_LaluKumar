@@ -38,6 +38,8 @@ This project is a Spring Boot application for managing a registry of government-
     -Enter the URL: http://localhost:8080/api/training-centers.
     -Go to the Body tab, select raw, and choose JSON.
     -Enter the following JSON data: 
+
+    
     {
     "centerName": "Traini8 ",
     "centerCode": "ABC123456789",
@@ -52,6 +54,9 @@ This project is a Spring Boot application for managing a registry of government-
     "contactEmail": "contact@traini.com",
     "contactPhone": "+1234567890"
     }
+
+
+    
     -Click Send to create a new training center.
 
 3.Test the GET API:
